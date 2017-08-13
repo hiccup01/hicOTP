@@ -1,0 +1,11 @@
+{
+  "name": "hicotp",
+  "version": "0.0.1",
+  "description": "A lightning fast TOTP web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hiccup01",
+  "license": "MIT"
+}
